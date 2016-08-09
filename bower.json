@@ -1,0 +1,13 @@
+{
+  "name": "angular-uiBootstrap2",
+  "homepage": "https://github.com/ngDirectives/angular-uiBootstrap",
+  "authors": [
+    "nirmal bhagwani <nirmal4designing@gmail.com>"
+  ],
+  "description": "for datepicker solution in ui bootstrap",
+  "main": "ui-bootstrap-tpls.js",
+  "keywords": [
+    "ui-bootstrap"
+  ],
+  "license": "MIT"
+}
